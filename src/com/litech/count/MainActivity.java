@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 
 	TextView text;
 	int number;
+	int number2;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
